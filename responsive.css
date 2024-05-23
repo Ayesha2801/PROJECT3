@@ -1,0 +1,518 @@
+@media only screen and (min-width:992px) and (max-width:1200px) {
+    .navigate a {
+        position: relative;
+        left: 57%;
+    }
+
+    .navbar1 {
+        width: 100%;
+    }
+
+    .navbar2 {
+        width: 100%;
+    }
+
+    /* * {
+        outline: 2px solid red;
+    } */
+
+    a.menu {
+        margin: 10px;
+    }
+
+    .pic1 img {
+        width: 180%;
+        height: 600px;
+    }
+
+    .content {
+        width: 180%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .box {
+        width: 180%;
+    }
+
+    .register {
+        width: 180%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .destination {
+        margin-left: 40%;
+    }
+
+    .pic2 {
+        margin-top: 10%;
+        width: 180%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5%;
+    }
+
+    .pic3 {
+        width: 180%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5%;
+    }
+
+    .letter {
+        width: 180%;
+        position: relative;
+        top: 100px;
+    }
+
+    .place {
+        margin-top: 10%;
+        margin-left: 40%;
+    }
+
+    .day1 {
+        width: 180%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5%;
+    }
+
+    .day2 {
+        width: 180%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5%;
+    }
+
+    .video {
+        width: 180%;
+    }
+
+    .enjoy {
+        position: relative;
+        left: 70%;
+    }
+
+    .service {
+        width: 170%;
+        padding: 5%;
+    }
+
+    .review {
+        width: 180%;
+        margin: auto;
+    }
+
+    .recent {
+        margin-left: 40%;
+    }
+
+    .trip {
+        width: 180%;
+        gap: 5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer {
+        width: 180%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media only screen and (min-width:769px) and (max-width:991px) {
+    .navbar1 {
+        width: 100%;
+    }
+
+    .navbar2 {
+        width: 100%;
+    }
+
+    .navigate a {
+        position: relative;
+        left: 57%;
+    }
+
+    a.menu {
+        margin: 10px;
+    }
+
+    .pic1 img {
+        width: 197.3%;
+    }
+
+    .content {
+        width: 197.3%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .box {
+        width: 197.3%;
+    }
+
+    .register {
+        width: 197.3%;
+    }
+
+    .destination {
+        margin-left: 40%;
+    }
+
+    .pic2 {
+        margin-top: 10%;
+        width: 197.3%;
+        gap: 2%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pic3 {
+        width: 197.3%;
+        gap: 2%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .letter {
+        width: 197.3%;
+        position: relative;
+        top: 150px;
+    }
+
+    .place {
+        margin-top: 20%;
+        margin-left: 40%;
+    }
+
+    .day1 {
+        width: 197.3%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2%;
+    }
+
+    .day2 {
+        width: 197.3%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2%;
+    }
+
+    .video {
+        width: 197.3%;
+    }
+
+    .enjoy {
+        position: relative;
+        left: 70%;
+    }
+
+    .service {
+        width: 183.3%;
+        padding: 7%;
+    }
+
+    .review {
+        width: 197.3%;
+    }
+
+    .recent {
+        margin-left: 40%;
+    }
+
+    .trip {
+        width: 197.3%;
+        gap: 5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer {
+        width: 197.3%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:768px) {
+    .navigate a {
+        position: relative;
+        left: 57%;
+    }
+
+    a.menu {
+        margin: 10px;
+    }
+
+    .pic1 img {
+        width: 241.5%;
+    }
+
+    .content {
+        width: 241.5%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .box {
+        width: 241.5%;
+    }
+
+    .register {
+        width: 241.5%;
+    }
+
+    .destination {
+        margin-left: 55%;
+    }
+
+    .pic2 {
+        width: 241.5%;
+        margin-top: 15%;
+        gap: 2%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pic3 {
+        width: 241.5%;
+        gap: 2%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .letter {
+        width: 241.5%;
+        position: relative;
+        top: 250px;
+    }
+
+    .place {
+        margin-top: 40%;
+        margin-left: 40%;
+    }
+
+    .day1 {
+        width: 241.5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2%;
+    }
+
+    .day2 {
+        width: 241.5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2%;
+    }
+
+    .video {
+        width: 241.5%;
+    }
+
+    .enjoy {
+        position: relative;
+        left: 80%;
+    }
+
+    .service {
+        width: 241.5%;
+        padding: 7%;
+        margin-top: 40%;
+    }
+
+    .review {
+        width: 241.5%;
+    }
+
+    .recent {
+        margin-left: 55%;
+    }
+
+    .trip {
+        width: 241.5%;
+        gap: 5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer {
+        width: 241.5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media only screen and (min-width:360px) and (max-width:575px) {
+    .navbar1 {
+        width: 100%;
+    }
+
+    .navbar2 {
+        width: 100%;
+    }
+
+    .pic1 img {
+        width: 340%;
+        height: 700px;
+    }
+
+    .content {
+        width: 320%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .box {
+        width: 340%;
+    }
+
+    .register {
+        width: 340%;
+    }
+
+    .destination {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 320%;
+        height: 100px;
+    }
+
+    .pic2 {
+        width: 330%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 3px;
+        margin-top: 30%
+    }
+
+    .pic3 {
+        width: 330%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 3px;
+        margin-top: 10%
+    }
+
+    .letter {
+        width: 340%;
+        position: relative;
+        top: 500px;
+
+    }
+
+    .place {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 320%;
+        position: relative;
+        top: 500px;
+    }
+
+    .day1 {
+        width: 330%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 3px;
+        position: relative;
+        top: 500px;
+    }
+
+    .day2 {
+        width: 330%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 3px;
+        position: relative;
+        top: 500px;
+    }
+
+    .video {
+        width: 340%;
+        height: 500px;
+        position: relative;
+        top: 700px;
+    }
+
+    .enjoy {
+        position: relative;
+        left: 110%;
+        top: 300px;
+    }
+
+    .service {
+        width: 340%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 60pc;
+    }
+
+    .review {
+        width: 340%;
+        position: relative;
+        top: 60pc;
+    }
+
+    .quotes {
+        font-size: 20px;
+        width: 540px;
+    }
+
+    .test {
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .recent {
+        left: 130%;
+        width: 300px;
+        position: relative;
+        top: 70pc;
+    }
+
+    .trip {
+        width: 340%;
+        gap: 5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 70pc;
+    }
+
+    .footer {
+        width: 340%;
+        position: relative;
+        top: 80pc;
+    }
+}
