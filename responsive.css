@@ -365,7 +365,7 @@
     }
 }
 
-@media only screen and (min-width:360px) and (max-width:575px) {
+@media only screen and (min-width:300px) and (max-width:575px) {
     .navbar1 {
         width: 100%;
     }
@@ -375,7 +375,7 @@
     }
 
     .pic1 img {
-        width: 340%;
+        width: 354%;
         height: 700px;
     }
 
@@ -386,11 +386,11 @@
     }
 
     .box {
-        width: 340%;
+        width: 354%;
     }
 
     .register {
-        width: 340%;
+        width: 354%;
     }
 
     .destination {
@@ -420,7 +420,7 @@
     }
 
     .letter {
-        width: 340%;
+        width: 354%;
         position: relative;
         top: 500px;
 
@@ -456,7 +456,7 @@
     }
 
     .video {
-        width: 340%;
+        width: 354%;
         height: 500px;
         position: relative;
         top: 700px;
@@ -469,7 +469,7 @@
     }
 
     .service {
-        width: 340%;
+        width: 354%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -478,7 +478,7 @@
     }
 
     .review {
-        width: 340%;
+        width: 354%;
         position: relative;
         top: 60pc;
     }
@@ -501,7 +501,7 @@
     }
 
     .trip {
-        width: 340%;
+        width: 354%;
         gap: 5%;
         display: flex;
         justify-content: center;
@@ -511,7 +511,7 @@
     }
 
     .footer {
-        width: 340%;
+        width: 354%;
         position: relative;
         top: 80pc;
     }
