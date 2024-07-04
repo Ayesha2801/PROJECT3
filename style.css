@@ -120,6 +120,84 @@ a.menu {
     margin: 15px;
 }
 
+.hamburger-icon {
+    border: none;
+    background-color: transparent;
+    display: none;
+}
+
+.hamburger-icon input[type="checkbox"] {
+    appearance: none;
+}
+
+@media only screen and (max-width:575px) {
+    header {
+        display: block;
+    }
+
+    .navbar2 {
+        height: 0;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        transition: all 0.5s ease-in-out;
+    }
+
+    .navbar1 {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navigate{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .div {
+        width: 30%;
+        height: 130px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hamburger-icon {
+        display: block;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    header:has(.hamburger-icon input[type="checkbox"]) .fa-x {
+        display: none;
+    }
+
+    .hamburger-icon .fa-bars,
+    .hamburger-icon .fa-x {
+        color: #fff;
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    header:has(.hamburger-icon input[type="checkbox"]:checked) .navbar2 {
+        height: 350px;
+        font-size: 30px;
+        color: #000;
+    }
+
+    header:has(.hamburger-icon input[type="checkbox"]:checked) .fa-bars {
+        display: none;
+    }
+
+    header:has(.hamburger-icon input[type="checkbox"]:checked) .fa-x {
+        display: inline-block;
+    }
+}
+
 .pic1 {
     position: relative;
 }
